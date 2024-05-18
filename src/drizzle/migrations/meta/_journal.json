@@ -1,0 +1,13 @@
+{
+  "version": "6",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1716010302321,
+      "tag": "0000_lonely_peter_parker",
+      "breakpoints": true
+    }
+  ]
+}
